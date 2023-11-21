@@ -9,7 +9,7 @@ import example.example.pages.GooglePage;
 /**
  * The Class GoogleSearchTest.
  *
- * @author Bharathish
+ * @author mounika
  */
 @Test(testName = "Google search test", description = "Test description")
 public class GoogleSearchTest extends BaseTest {
