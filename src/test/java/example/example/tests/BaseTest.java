@@ -23,7 +23,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * Every test class should extend this calss.
  *
- * @author Bharathish
+ * @author mounika
  */
 @Listeners({ ReportListener.class, LogListener.class })
 public class BaseTest {
