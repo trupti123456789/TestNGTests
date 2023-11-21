@@ -9,7 +9,7 @@ import example.example.pages.FacebookLoginPage;
 /**
  * The Class FaceBookLoginTest.
  *
- * @author Bharathish
+ * @author mounika
  */
 @Test(testName = "Facebook login test", description = "Facebook login test")
 public class FaceBookLoginTest extends BaseTest {
